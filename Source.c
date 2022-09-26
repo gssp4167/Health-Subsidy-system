@@ -7,7 +7,7 @@
 int main()
 {
   int AorP = 0;
-  char contactnumber[10000];
+  char contactnumber[100000];
   char AORPNMBR[100000];
   printf("Please enter the Adhar or PAN card number\n");
   scanf("%s", AORPNMBR);
